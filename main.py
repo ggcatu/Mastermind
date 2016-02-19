@@ -8,7 +8,7 @@ import os
 
 # Variable global
 # Para que sea mas facil y legible el codigo
-PATH = os.path.dirname(os.path.abspath(__file__))+"/"
+PATH = os.path.dirname(os.path.abspath(__file__))+"/images/"
 
 # Ventana inicial y sus propiedades
 master = Tk()
