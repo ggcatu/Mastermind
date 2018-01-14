@@ -1,9 +1,20 @@
 # Mastermind
-Juego de mastermind, hecho en Python y tkinter
+Mastermind game made in Python and Tkinter,
+Features:
+	Load / Save game
+	Guess the computer choice
+	Set a choice so the computer tries to guess
 
-## Dependencias:
-+ python3
-+ tkinter
+## Dependencies
++ Python3
++ TKinter
 
-## Ejecutar:
+## Execute
 python3 main.py
+
+## Screenshoots
+<img src='screenshoot/start.jpg'>
+<img src='screenshoot/legend.jpg'>
+<img src='screenshoot/guess.jpg'>
+<img src='screenshoot/set.jpg'>
+<img src='screenshoot/pc_try.jpg'>
